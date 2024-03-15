@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="githube-user-contribution.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/sami0vic/sami0vic/blob/main/github-user-contribution.svg" />
   
   <br/><br/><br/>
 </div>
