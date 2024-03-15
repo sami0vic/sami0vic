@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ЅΔΜIOVIC!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Cyber Security Student from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 💬 Ask me about **C++, Python, Web Development... or anything [here](https://github.com/sami0vic/sami0vic/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🔱 **If 1 person wins it's me, if no one wins I died trying**
 
  </div>
  
