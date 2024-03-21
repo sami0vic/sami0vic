@@ -16,8 +16,6 @@
 
 💬 Ask me about **C++, Python, Web Development... or anything [here](https://github.com/sami0vic/sami0vic/issues)**
 
-🔱 **If 1 person wins it's me, if no one wins I died trying**
-
  </div>
  
 <div align="center"> 
